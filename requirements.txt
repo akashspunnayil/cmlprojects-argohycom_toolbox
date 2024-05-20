@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+netCDF4
+xarray
+scipy
+cartopy
+cmocean
+python-dateutil
+glob2
+Pillow
+ipython
+argparse
