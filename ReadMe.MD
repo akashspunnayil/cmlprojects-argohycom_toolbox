@@ -9,7 +9,6 @@ Annette Samuelsen, Research Leader, Senior Researcher, Ocean Modelling Group, NE
 NOTE: The toolbox requires argo and colocated model datasets in netCDF format
 
 
-
 *This toolbox provides a collection of functions designed to facilitate the preprocessing of Argo float and colocated model fields. Its primary purpose is to enable a straightforward comparison between Argo float observations and model data by processing and formatting them for side-by-side analysis*
 
 
@@ -54,6 +53,18 @@ Bias (bias)
 ```
 
 # Installation requirements
+
+### Clone this repository 
+
+```
+git clone https://github.com/akashspunnayil/cmlprojects-argohycom_toolbox.git
+```
+this directory contains following subdirectories:
+examples: Examples jupyter notebooks to work with the toolbox functions. It is your working directory. Your data should be in this directory. 
+helper_functions: python files contain essential files of the toolbox
+outputs: this is where your outputs were saved..
+
+
 
 The functions in this toolbox requires some Python packages listed in the requirements.txt file.
 
