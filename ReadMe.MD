@@ -59,9 +59,9 @@ Bias (bias)
 ```
 git clone https://github.com/akashspunnayil/cmlprojects-argohycom_toolbox.git
 ```
-this directory contains following subdirectories:
-examples: Examples jupyter notebooks to work with the toolbox functions. It is your working directory. Your data should be in this directory. 
-helper_functions: python files contain essential files of the toolbox
+this directory contains following subdirectories:  
+examples: Examples jupyter notebooks to work with the toolbox functions. It is your working directory. Your data should be in this directory.  
+helper_functions: python files contain essential files of the toolbox  
 outputs: this is where your outputs were saved..
 
 
