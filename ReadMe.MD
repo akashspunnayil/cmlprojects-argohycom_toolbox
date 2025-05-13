@@ -137,6 +137,6 @@ Users can freely access, modify, and use the code. However, if you find it usefu
 
 # cite:
 ```
-The related paper is currently under submission. Please check back for updates on the citation details once the paper is published.
+Akash, S., Samuelsen, A., Ranith, R. et al. HYCOM-ECOSMO for the Indian Ocean: a simulation of oxygen minimum zone variability over the last two decades. J Oceanogr 81, 127–148 (2025). https://doi.org/10.1007/s10872-025-00744-0
 ```
 
